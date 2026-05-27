@@ -1154,7 +1154,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 153878}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1187,7 +1187,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   teleportAction:
     actionPath: /actions/default/in/Teleport
-    needsReinit: 0
+    needsReinit: 1
   traceLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -1195,12 +1195,12 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 0
   floorFixupMaximumTraceDistance: 1
-  areaVisibleMaterial: {fileID: 2100000, guid: b158af948c07049489b84d5e9a508fd4, type: 2}
-  areaLockedMaterial: {fileID: 2100000, guid: 8f94a241b94d5e642bda902cfb4c2189, type: 2}
-  areaHighlightedMaterial: {fileID: 2100000, guid: fb024e37f29fd7149a44714f0c8a312d, type: 2}
-  pointVisibleMaterial: {fileID: 2100000, guid: fcf415fe5c0b9644f96804e58e61e0a5, type: 2}
-  pointLockedMaterial: {fileID: 2100000, guid: 483b76824ec70b145b574d55df26b2f4, type: 2}
-  pointHighlightedMaterial: {fileID: 2100000, guid: b98479320013be344be35685e0aab0bd, type: 2}
+  areaVisibleMaterial: {fileID: 2100000, guid: d2bbbd01c5b7a6b4bb5a1316f21fc1ff, type: 2}
+  areaLockedMaterial: {fileID: 2100000, guid: 0fe9e4228ebb3bc469ead815cd305d91, type: 2}
+  areaHighlightedMaterial: {fileID: 2100000, guid: 9001ec1e087534147bd9f18cbf931597, type: 2}
+  pointVisibleMaterial: {fileID: 2100000, guid: bda4e134e1985594ea5aa36ca5a739e2, type: 2}
+  pointLockedMaterial: {fileID: 2100000, guid: c8665e1aa63020343bc825410291e43a, type: 2}
+  pointHighlightedMaterial: {fileID: 2100000, guid: 92c458d658d953f4588489c06de30b56, type: 2}
   destinationReticleTransform: {fileID: 450016}
   invalidReticleTransform: {fileID: 460596}
   playAreaPreviewCorner: {fileID: 167516}
@@ -1248,7 +1248,7 @@ MonoBehaviour:
   arcDuration: 3
   segmentBreak: 0.025
   arcSpeed: 0.2
-  material: {fileID: 2100000, guid: 140bd0e59d9bee94f9f0284c9eef5b32, type: 2}
+  material: {fileID: 2100000, guid: da2a09186fc8dfa4c9f1c2933159f94f, type: 2}
   traceLayerMask: 0
 --- !u!114 &114000010264285480
 MonoBehaviour:

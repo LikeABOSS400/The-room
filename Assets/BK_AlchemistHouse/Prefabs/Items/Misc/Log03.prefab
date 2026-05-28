@@ -13,8 +13,13 @@ GameObject:
   - component: {fileID: 23895465704204890}
   - component: {fileID: 54687279887727354}
   - component: {fileID: 64342458865559008}
+<<<<<<< HEAD
+  - component: {fileID: -2243536297554143825}
+  - component: {fileID: -1334851718957874113}
+=======
   - component: {fileID: 653991880408958962}
   - component: {fileID: 1212179447542502099}
+>>>>>>> 15092efc52be4092f9d1c057fe67cf02cd244114
   m_Layer: 0
   m_Name: Log03
   m_TagString: Untagged
@@ -30,13 +35,21 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1200772059524934}
   serializedVersion: 2
+<<<<<<< HEAD
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+=======
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+>>>>>>> 15092efc52be4092f9d1c057fe67cf02cd244114
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.103187054, y: 0.103187054, z: 0.103187054}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+>>>>>>> 15092efc52be4092f9d1c057fe67cf02cd244114
 --- !u!33 &33039828468387682
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -143,7 +156,11 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 887cced63749746438c5f2645a8d0f92, type: 3}
+<<<<<<< HEAD
+--- !u!114 &-2243536297554143825
+=======
 --- !u!114 &653991880408958962
+>>>>>>> 15092efc52be4092f9d1c057fe67cf02cd244114
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -195,7 +212,11 @@ MonoBehaviour:
   highlightOnHover: 1
   hideHighlight: []
   hoverPriority: 0
+<<<<<<< HEAD
+--- !u!114 &-1334851718957874113
+=======
 --- !u!114 &1212179447542502099
+>>>>>>> 15092efc52be4092f9d1c057fe67cf02cd244114
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -207,7 +228,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ffefbea063cab884ca33e5a449e5c22c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: SteamVR::Valve.VR.InteractionSystem.Throwable
+<<<<<<< HEAD
+  attachmentFlags: 44
+=======
   attachmentFlags: 84
+>>>>>>> 15092efc52be4092f9d1c057fe67cf02cd244114
   attachmentOffset: {fileID: 0}
   catchingSpeedThreshold: -1
   releaseVelocityStyle: 1

@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &4867953396367456
 Transform:
@@ -51,7 +51,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &4628132985741964
 Transform:
@@ -156,14 +156,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1286915740400614}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalRotation: {x: -0.7071039, y: 0.0020283163, z: 0.0020282269, w: 0.70710385}
   m_LocalPosition: {x: -0.2220175, y: 8.8817837e-17, z: 0.55657774}
   m_LocalScale: {x: 0.14090554, y: 0.14958058, z: 0.254}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4238441231212568}
   m_Father: {fileID: 4867953396367456}
-  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -90.00001, y: 0, z: 37.945004}
 --- !u!33 &33481704258084892
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -209,7 +209,7 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
+  m_StitchLightmapSeams: 1
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
@@ -240,8 +240,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.78990126, y: 4.1362367, z: 6.639189}
-  m_Center: {x: 0.00031950214, y: 1.7053224, z: 3.9540308}
+  m_Size: {x: 0.6590262, y: 3.246905, z: 6.546057}
+  m_Center: {x: -0.06511748, y: 2.0525105, z: 3.9334505}
 --- !u!54 &4920222585984292283
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -250,7 +250,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1286915740400614}
   serializedVersion: 5
-  m_Mass: 1
+  m_Mass: 10
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -528,7 +528,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &4018977758275582
 Transform:
@@ -897,14 +897,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1847485280512392}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalRotation: {x: -0.7070934, y: -0.004344821, z: -0.004344821, w: 0.7070935}
   m_LocalPosition: {x: -0.22201692, y: 0, z: -0.55650127}
   m_LocalScale: {x: 0.14090556, y: 0.14958058, z: 0.254}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4459535204498366}
   m_Father: {fileID: 4867953396367456}
-  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: -0.704}
 --- !u!33 &33294563874276216
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -950,7 +950,7 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
+  m_StitchLightmapSeams: 1
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
@@ -981,8 +981,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.7852406, y: 4.2066927, z: 6.6743345}
-  m_Center: {x: 0.0018990643, y: -1.7344067, z: 3.9014833}
+  m_Size: {x: 0.57507026, y: 3.3600872, z: 6.6056356}
+  m_Center: {x: -0.103186324, y: -2.004526, z: 3.8922465}
 --- !u!54 &1118391428337388203
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -991,7 +991,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1847485280512392}
   serializedVersion: 5
-  m_Mass: 1
+  m_Mass: 10
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}

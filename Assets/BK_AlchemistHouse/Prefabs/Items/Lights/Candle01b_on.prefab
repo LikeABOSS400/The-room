@@ -15,7 +15,6 @@ GameObject:
   - component: {fileID: 54324626887154284}
   - component: {fileID: 8873423576798821884}
   - component: {fileID: 3679594289564526969}
-  - component: {fileID: 4520464753912568588}
   m_Layer: 0
   m_Name: Candle01b_on
   m_TagString: Untagged
@@ -253,60 +252,6 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   interactable: {fileID: 0}
---- !u!114 &4520464753912568588
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1360175998887840}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ffefbea063cab884ca33e5a449e5c22c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: SteamVR::Valve.VR.InteractionSystem.Throwable
-  attachmentFlags: 44
-  attachmentOffset: {fileID: 0}
-  catchingSpeedThreshold: -1
-  releaseVelocityStyle: 1
-  releaseVelocityTimeOffset: -0.011
-  scaleReleaseVelocity: 1.1
-  scaleReleaseVelocityThreshold: -1
-  scaleReleaseVelocityCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0.1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    - serializedVersion: 3
-      time: 1
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  restoreOriginalParent: 0
-  onPickUp:
-    m_PersistentCalls:
-      m_Calls: []
-  onDetachFromHand:
-    m_PersistentCalls:
-      m_Calls: []
-  onHeldUpdate:
-    m_PersistentCalls:
-      m_Calls: []
-  interactable: {fileID: 0}
 --- !u!1 &1531674435913840
 GameObject:
   m_ObjectHideFlags: 0
@@ -498,7 +443,7 @@ GameObject:
   - component: {fileID: 4615245413453080}
   - component: {fileID: 108460654045448504}
   - component: {fileID: 114316633700375258}
-  - component: {fileID: 984918091126860061}
+  - component: {fileID: 8220557097916419394}
   m_Layer: 0
   m_Name: Point light
   m_TagString: Untagged
@@ -612,7 +557,7 @@ MonoBehaviour:
   NoiseIntensityOffset: 0.3
   NoiseVelocity: {x: 3, y: 3}
   MaxRayLength: 400
---- !u!114 &984918091126860061
+--- !u!114 &8220557097916419394
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

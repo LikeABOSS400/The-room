@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 54012087874682488}
   - component: {fileID: 3097550596637223345}
   - component: {fileID: 6728889941924278110}
-  - component: {fileID: 992319694274537205}
+  - component: {fileID: 8704239452134863953}
   m_Layer: 0
   m_Name: ClutterBowl03Ing03b
   m_TagString: Untagged
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ffefbea063cab884ca33e5a449e5c22c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: SteamVR::Valve.VR.InteractionSystem.Throwable
-  attachmentFlags: 84
+  attachmentFlags: 85
   attachmentOffset: {fileID: 0}
   catchingSpeedThreshold: -1
   releaseVelocityStyle: 1
@@ -251,7 +251,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   interactable: {fileID: 0}
---- !u!114 &992319694274537205
+--- !u!114 &8704239452134863953
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

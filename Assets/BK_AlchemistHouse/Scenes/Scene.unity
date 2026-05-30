@@ -33556,21 +33556,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 275806644}
     m_Modifications:
-    - target: {fileID: 4430016967667112, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
-      propertyPath: m_RootOrder
-      value: 227
-      objectReference: {fileID: 0}
-    - target: {fileID: 4430016967667112, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.6058585
-      objectReference: {fileID: 0}
-    - target: {fileID: 4430016967667112, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.6058582
-      objectReference: {fileID: 0}
-    - target: {fileID: 4430016967667112, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.43317863
+    - target: {fileID: 1038934598534082, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
+      propertyPath: m_Name
+      value: ClutterBowl03Ing05
       objectReference: {fileID: 0}
     - target: {fileID: 4430016967667112, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -33578,7 +33566,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4430016967667112, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.4523
+      value: -1.8371
       objectReference: {fileID: 0}
     - target: {fileID: 4430016967667112, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -33600,13 +33588,30 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
+    - target: {fileID: 4430016967667112, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 4430016967667112, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4430016967667112, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7372872816123025451, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
+      propertyPath: previewLeftInstance
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7372872816123025451, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
+      propertyPath: previewRightInstance
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 1038934598534082, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1752534800}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
 --- !u!1 &597474826
 GameObject:
@@ -35492,38 +35497,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 628947778}
   m_Mesh: {fileID: 4300000, guid: 862d2c3f645ca594381e571018579402, type: 3}
---- !u!1 &629471033 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1090677295851248, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
-  m_PrefabInstance: {fileID: 1632869105}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &629471040
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 629471033}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e7418c7dd8f977d4e969202d3fa7e926, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: SteamVR::Valve.VR.SteamVR_Skeleton_Poser
-  poseEditorExpanded: 1
-  blendEditorExpanded: 1
-  poseNames:
-  - BowlPose (MAIN)
-  overridePreviewLeftHandPrefab: {fileID: 1000013348574242, guid: 638779290bce1af49b356f33dcc6fccf, type: 3}
-  overridePreviewRightHandPrefab: {fileID: 1000010304998954, guid: 6def53d002137b747aec0b29551e0e25, type: 3}
-  skeletonMainPose: {fileID: 11400000, guid: 0bdcbf276ff063748bf117f8fea91d91, type: 2}
-  skeletonAdditionalPoses: []
-  showLeftPreview: 0
-  showRightPreview: 0
-  previewLeftInstance: {fileID: 0}
-  previewRightInstance: {fileID: 0}
-  previewPoseSelection: 0
-  blendingBehaviours: []
-  scale: 1
 --- !u!1001 &631133732
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -88210,28 +88183,12 @@ PrefabInstance:
       value: ClutterBowl03Ing03b (1)
       objectReference: {fileID: 0}
     - target: {fileID: 4848593561707748, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
-      propertyPath: m_RootOrder
-      value: 228
-      objectReference: {fileID: 0}
-    - target: {fileID: 4848593561707748, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.6058585
-      objectReference: {fileID: 0}
-    - target: {fileID: 4848593561707748, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.6058582
-      objectReference: {fileID: 0}
-    - target: {fileID: 4848593561707748, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.43317863
-      objectReference: {fileID: 0}
-    - target: {fileID: 4848593561707748, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.881535
       objectReference: {fileID: 0}
     - target: {fileID: 4848593561707748, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.542
+      value: -1.8363
       objectReference: {fileID: 0}
     - target: {fileID: 4848593561707748, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -88253,13 +88210,26 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
+    - target: {fileID: 4848593561707748, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848593561707748, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848593561707748, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5752014786705477890, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
+      propertyPath: previewLeftInstance
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 1090677295851248, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 629471040}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7595edcf12c65a444b56f300f9f3e18b, type: 3}
 --- !u!4 &1635748496 stripped
 Transform:
@@ -96327,38 +96297,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4425827515834252, guid: 8eb802985616d134da97830b682ac851, type: 3}
   m_PrefabInstance: {fileID: 1752003229}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1752534793 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1038934598534082, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
-  m_PrefabInstance: {fileID: 596412542}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1752534800
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1752534793}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e7418c7dd8f977d4e969202d3fa7e926, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: SteamVR::Valve.VR.SteamVR_Skeleton_Poser
-  poseEditorExpanded: 1
-  blendEditorExpanded: 1
-  poseNames:
-  - BowlPose (MAIN)
-  overridePreviewLeftHandPrefab: {fileID: 1000013348574242, guid: 638779290bce1af49b356f33dcc6fccf, type: 3}
-  overridePreviewRightHandPrefab: {fileID: 1000010304998954, guid: 6def53d002137b747aec0b29551e0e25, type: 3}
-  skeletonMainPose: {fileID: 11400000, guid: 0bdcbf276ff063748bf117f8fea91d91, type: 2}
-  skeletonAdditionalPoses: []
-  showLeftPreview: 0
-  showRightPreview: 0
-  previewLeftInstance: {fileID: 0}
-  previewRightInstance: {fileID: 0}
-  previewPoseSelection: 0
-  blendingBehaviours: []
-  scale: 1
 --- !u!1 &1753535733
 GameObject:
   m_ObjectHideFlags: 0
@@ -104344,14 +104282,6 @@ PrefabInstance:
     - target: {fileID: 4972606563699158, guid: ae3779d7b6bd0eb4392924324f09dbad, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -180.00002
-      objectReference: {fileID: 0}
-    - target: {fileID: 3584259711911248304, guid: ae3779d7b6bd0eb4392924324f09dbad, type: 3}
-      propertyPath: showLeftPreview
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3584259711911248304, guid: ae3779d7b6bd0eb4392924324f09dbad, type: 3}
-      propertyPath: showRightPreview
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3584259711911248304, guid: ae3779d7b6bd0eb4392924324f09dbad, type: 3}
       propertyPath: previewLeftInstance

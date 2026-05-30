@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 54328073576985868}
   - component: {fileID: 27735084095017741}
   - component: {fileID: 2013912991647259819}
-  - component: {fileID: 9159959931060527944}
+  - component: {fileID: 7372872816123025451}
   m_Layer: 0
   m_Name: ClutterBowl03Ing05
   m_TagString: Untagged
@@ -251,7 +251,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   interactable: {fileID: 0}
---- !u!114 &9159959931060527944
+--- !u!114 &7372872816123025451
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

@@ -141,6 +141,7 @@ GameObject:
   - component: {fileID: 4023135653061891693}
   - component: {fileID: 2168821389523395237}
   - component: {fileID: 639904392808222504}
+  - component: {fileID: 9122162199222031784}
   m_Layer: 0
   m_Name: WoodCupboard03_door2
   m_TagString: Untagged
@@ -156,14 +157,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1286915740400614}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.7071039, y: 0.0020283163, z: 0.0020282269, w: 0.70710385}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
   m_LocalPosition: {x: -0.2220175, y: 8.8817837e-17, z: 0.55657774}
   m_LocalScale: {x: 0.14090554, y: 0.14958058, z: 0.254}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4238441231212568}
   m_Father: {fileID: 4867953396367456}
-  m_LocalEulerAnglesHint: {x: -90.00001, y: 0, z: 37.945004}
+  m_LocalEulerAnglesHint: {x: -90.00001, y: 0, z: 0}
 --- !u!33 &33481704258084892
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -414,6 +415,33 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   interactable: {fileID: 0}
+--- !u!114 &9122162199222031784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1286915740400614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7418c7dd8f977d4e969202d3fa7e926, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: SteamVR::Valve.VR.SteamVR_Skeleton_Poser
+  poseEditorExpanded: 1
+  blendEditorExpanded: 1
+  poseNames:
+  - DoorHandle_Pose (MAIN)
+  overridePreviewLeftHandPrefab: {fileID: 1000013348574242, guid: 638779290bce1af49b356f33dcc6fccf, type: 3}
+  overridePreviewRightHandPrefab: {fileID: 1000010304998954, guid: 6def53d002137b747aec0b29551e0e25, type: 3}
+  skeletonMainPose: {fileID: 11400000, guid: c1d3d1ad3996a874b8af775783237244, type: 2}
+  skeletonAdditionalPoses: []
+  showLeftPreview: 0
+  showRightPreview: 0
+  previewLeftInstance: {fileID: 0}
+  previewRightInstance: {fileID: 0}
+  previewPoseSelection: 0
+  blendingBehaviours: []
+  scale: 1
 --- !u!1 &1438529333595508
 GameObject:
   m_ObjectHideFlags: 0

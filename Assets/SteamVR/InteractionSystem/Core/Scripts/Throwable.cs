@@ -117,7 +117,7 @@ namespace Valve.VR.InteractionSystem
         //-------------------------------------------------
         protected virtual void OnHandHoverEnd( Hand hand )
 		{
-            hand.HideGrabHint();
+            //hand.HideGrabHint();
 		}
 
 

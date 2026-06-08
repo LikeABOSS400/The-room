@@ -910,6 +910,7 @@ GameObject:
   - component: {fileID: 8698383521340456222}
   - component: {fileID: 2351744639489127655}
   - component: {fileID: 5852675885614863745}
+  - component: {fileID: 2676742702418163602}
   m_Layer: 0
   m_Name: WoodCupboard03_door1
   m_TagString: Untagged
@@ -1091,7 +1092,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: SteamVR::Valve.VR.InteractionSystem.Interactable
   activateActionSetOnAttach:
     actionSetPath: 
-  hideHandOnAttach: 1
+  hideHandOnAttach: 0
   hideSkeletonOnAttach: 0
   hideControllerOnAttach: 0
   handAnimationOnPickup: 0
@@ -1183,3 +1184,30 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   interactable: {fileID: 0}
+--- !u!114 &2676742702418163602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1847485280512392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7418c7dd8f977d4e969202d3fa7e926, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: SteamVR::Valve.VR.SteamVR_Skeleton_Poser
+  poseEditorExpanded: 1
+  blendEditorExpanded: 1
+  poseNames:
+  - RDS (MAIN)
+  overridePreviewLeftHandPrefab: {fileID: 1000013348574242, guid: 638779290bce1af49b356f33dcc6fccf, type: 3}
+  overridePreviewRightHandPrefab: {fileID: 1000010304998954, guid: 6def53d002137b747aec0b29551e0e25, type: 3}
+  skeletonMainPose: {fileID: 11400000, guid: 2143851a19e59674c9696ba36117d6d6, type: 2}
+  skeletonAdditionalPoses: []
+  showLeftPreview: 0
+  showRightPreview: 0
+  previewLeftInstance: {fileID: 0}
+  previewRightInstance: {fileID: 0}
+  previewPoseSelection: 0
+  blendingBehaviours: []
+  scale: 1

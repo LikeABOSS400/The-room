@@ -519,8 +519,8 @@ namespace Valve.VR.InteractionSystem
                         renderer.material.color = baseColor;
                         flashingRenderers.Remove(renderer);
 #if UNITY_URP
-                        renderers[i].material.SetTexture("_BaseMap", renderers[i].material.GetTexture("_BumpMap"));
-                        renderers[i].material.SetTexture("_BumpMap", null);
+                        //renderers[i].material.SetTexture("_BaseMap", renderers[i].material.GetTexture("_BumpMap"));
+                        //renderers[i].material.SetTexture("_BumpMap", null);
 #endif
                     }
                 }

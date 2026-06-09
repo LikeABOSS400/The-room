@@ -17498,6 +17498,75 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4425827515834252, guid: 8eb802985616d134da97830b682ac851, type: 3}
   m_PrefabInstance: {fileID: 311297179}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+--- !u!1 &313351585
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 313351586}
+  m_Layer: 0
+  m_Name: finger_index_meta_r
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &313351586
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 313351585}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.6442515, y: -0.42213318, z: -0.4782025, w: 0.42197865}
+  m_LocalPosition: {x: 0.0006324522, y: 0.026866155, z: 0.015001948}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 661976994}
+  m_Father: {fileID: 1288969255}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &314655915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 314655916}
+  m_Layer: 0
+  m_Name: finger_index_r_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &314655916
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 314655915}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.938894e-18, y: 1.9428903e-16, z: -1.348151e-33, w: 1}
+  m_LocalPosition: {x: 0.022821384, y: -0.00000014365155, z: 0.00000007651614}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1827570147}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
+=======
+>>>>>>> parent of db40695 (Dodanie pozy do lamp)
 --- !u!1001 &316028662
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20210,6 +20279,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 388258355}
   m_Mesh: {fileID: 4300002, guid: 0f271570e2a24474e9e6f30c87384589, type: 3}
+<<<<<<< HEAD
+=======
 --- !u!1 &389547945
 GameObject:
   m_ObjectHideFlags: 0
@@ -20242,6 +20313,7 @@ Transform:
   - {fileID: 1085055721}
   m_Father: {fileID: 2140032087}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
 --- !u!1 &391144897
 GameObject:
   m_ObjectHideFlags: 0
@@ -53350,6 +53422,43 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+--- !u!1 &948002945
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 948002946}
+  m_Layer: 0
+  m_Name: finger_ring_0_r
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &948002946
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 948002945}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.14279756, y: -0.040172838, z: -0.3086543, w: 0.93953586}
+  m_LocalPosition: {x: 0.06587581, y: -0.0017857892, z: -0.00069344096}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1634822009}
+  m_Father: {fileID: 438324830}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of db40695 (Dodanie pozy do lamp)
 --- !u!1 &948674001
 GameObject:
   m_ObjectHideFlags: 0
@@ -53382,6 +53491,42 @@ Transform:
   - {fileID: 84673417}
   m_Father: {fileID: 2124700793}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+--- !u!1 &951802851
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 951802852}
+  m_Layer: 0
+  m_Name: finger_ring_meta_r
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &951802852
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 951802851}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.5166922, y: -0.4298879, z: -0.49554786, w: 0.5501435}
+  m_LocalPosition: {x: 0.0005134356, y: -0.0065451227, z: 0.016347693}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1985292418}
+  m_Father: {fileID: 709367647}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
+=======
+>>>>>>> parent of db40695 (Dodanie pozy do lamp)
 --- !u!1 &952384058
 GameObject:
   m_ObjectHideFlags: 0
@@ -74785,6 +74930,41 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4031578027554646, guid: 770250ad7a0f5ee479f84f7bcfe6f749, type: 3}
   m_PrefabInstance: {fileID: 1374319932}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+--- !u!1 &1378940185
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1378940186}
+  m_Layer: 0
+  m_Name: finger_pinky_1_r
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1378940186
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1378940185}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0014480314, y: 0.0012313732, z: -0.67575634, w: 0.7371227}
+  m_LocalPosition: {x: 0.030219711, y: -0.00000003418319, z: -0.00000009332872}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1005715503}
+  m_Father: {fileID: 1350435154}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
 --- !u!4 &1379357395 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4185614764287014, guid: bebfb14ad739a1c48959e3ba26cfb2a3, type: 3}
@@ -77343,6 +77523,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4425874899348998, guid: e3b08ca4cbd32534ea8d0b5e519709e2, type: 3}
   m_PrefabInstance: {fileID: 1425052363}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+=======
 --- !u!1 &1427404409
 GameObject:
   m_ObjectHideFlags: 0
@@ -77374,6 +77556,74 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1526765234}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+--- !u!1 &1428530767
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1428530768}
+  m_Layer: 0
+  m_Name: finger_pinky_2_r
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1428530768
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1428530767}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.015728079, y: 0.05948787, z: -0.4896715, w: 0.86973315}
+  m_LocalPosition: {x: 0.018186597, y: -0.0000000050220166, z: -0.00000020934549}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2079059403}
+  m_Father: {fileID: 772576069}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1430848572
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1430848573}
+  m_Layer: 0
+  m_Name: finger_index_meta_r
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1430848573
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430848572}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.6442515, y: -0.42213318, z: -0.4782025, w: 0.42197865}
+  m_LocalPosition: {x: 0.0006324522, y: 0.026866155, z: 0.015001948}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1295377710}
+  m_Father: {fileID: 1838309088}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
+=======
+>>>>>>> parent of db40695 (Dodanie pozy do lamp)
 --- !u!1 &1431383065
 GameObject:
   m_ObjectHideFlags: 0
@@ -79144,6 +79394,43 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1452372550}
   m_Mesh: {fileID: 4300000, guid: 60694673404b80d45920d4cb862f845a, type: 3}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+--- !u!1 &1452387199
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1452387200}
+  m_Layer: 0
+  m_Name: finger_thumb_r_aux
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1452387200
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1452387199}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.20274544, y: 0.59426665, z: 0.2494411, w: 0.73723847}
+  m_LocalPosition: {x: -0.0060591106, y: 0.05628522, z: 0.060063843}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1558600489}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
+=======
+>>>>>>> parent of db40695 (Dodanie pozy do lamp)
 --- !u!4 &1455589809 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4430016967667112, guid: c848e19aeef2afb439a293a2cd78d38a, type: 3}
@@ -85299,6 +85586,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 118.658005
       objectReference: {fileID: 0}
+    - target: {fileID: 5586600383808879750, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
+      propertyPath: showLeftPreview
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5586600383808879750, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
+      propertyPath: showRightPreview
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5586600383808879750, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
+      propertyPath: previewLeftInstance
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5586600383808879750, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
+      propertyPath: previewRightInstance
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -86284,6 +86587,44 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4579806932926482, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
   m_PrefabInstance: {fileID: 1092095885}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+--- !u!1 &1582052424
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1582052425}
+  m_Layer: 0
+  m_Name: finger_index_1_r
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1582052425
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1582052424}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.030831076, y: 0.033843942, z: -0.6849228, w: 0.72717595}
+  m_LocalPosition: {x: 0.043930072, y: 0.000000059567498, z: 0.00000018367103}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 92875575}
+  m_Father: {fileID: 1154940726}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
+=======
+>>>>>>> parent of db40695 (Dodanie pozy do lamp)
 --- !u!1001 &1582672255
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -86418,8 +86759,71 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -26.573975
       objectReference: {fileID: 0}
+<<<<<<< HEAD
+    - target: {fileID: 2162093318618193811, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.1231
+      objectReference: {fileID: 0}
+    - target: {fileID: 2162093318618193811, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0553
+      objectReference: {fileID: 0}
+    - target: {fileID: 2162093318618193811, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0245
+      objectReference: {fileID: 0}
+    - target: {fileID: 2162093318618193811, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.24826077
+      objectReference: {fileID: 0}
+    - target: {fileID: 2162093318618193811, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.64073217
+      objectReference: {fileID: 0}
+    - target: {fileID: 2162093318618193811, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.049835432
+      objectReference: {fileID: 0}
+    - target: {fileID: 2162093318618193811, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.724807
+      objectReference: {fileID: 0}
+    - target: {fileID: 2162093318618193811, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -22.978
+      objectReference: {fileID: 0}
+    - target: {fileID: 2162093318618193811, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -79.108
+      objectReference: {fileID: 0}
+    - target: {fileID: 2162093318618193811, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 161.244
+      objectReference: {fileID: 0}
+    - target: {fileID: 7270264602647407293, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: showLeftPreview
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7270264602647407293, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: showRightPreview
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7270264602647407293, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: previewLeftInstance
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7270264602647407293, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+      propertyPath: previewRightInstance
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 8609674817151139448, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+    - {fileID: 2211218839336574603, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
+=======
     m_RemovedComponents: []
     m_RemovedGameObjects: []
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 93b681f9ed291a74c955ae60313e2574, type: 3}
@@ -88137,6 +88541,43 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f8c84c28ba692a345b36e75d45fc9df9, type: 3}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+--- !u!1 &1612857797
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1612857798}
+  m_Layer: 0
+  m_Name: finger_pinky_r_aux
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1612857798
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1612857797}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.7584072, y: -0.6393418, z: -0.12667806, w: -0.0036594148}
+  m_LocalPosition: {x: -0.031805996, y: -0.08721431, z: 0.12101539}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1002928756}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
+=======
+>>>>>>> parent of db40695 (Dodanie pozy do lamp)
 --- !u!1001 &1613895524
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -89857,6 +90298,43 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1637323408}
   m_Mesh: {fileID: 4300000, guid: 60694673404b80d45920d4cb862f845a, type: 3}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+--- !u!1 &1637423769
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1637423770}
+  m_Layer: 0
+  m_Name: finger_thumb_r_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1637423770
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1637423769}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.3877788e-17, y: -1.3877788e-17, z: -5.551115e-17, w: 1}
+  m_LocalPosition: {x: 0.030463902, y: 0.00000016269207, z: 0.0000000792839}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 490847337}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
+=======
+>>>>>>> parent of db40695 (Dodanie pozy do lamp)
 --- !u!4 &1637529201 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4061743728888972, guid: 636501c2e876f9845926878dbee309f1, type: 3}
@@ -95117,6 +95595,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1721891072}
   m_Mesh: {fileID: 4300002, guid: 63549bf603a76da4ebeecdcf94411563, type: 3}
+<<<<<<< HEAD
+=======
 --- !u!1 &1723219642
 GameObject:
   m_ObjectHideFlags: 0
@@ -95149,6 +95629,7 @@ Transform:
   - {fileID: 693903082}
   m_Father: {fileID: 1604779808}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
 --- !u!1001 &1723391403
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -109516,6 +109997,44 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1947796179}
   m_Mesh: {fileID: 4300000, guid: 60694673404b80d45920d4cb862f845a, type: 3}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+--- !u!1 &1953291322
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1953291323}
+  m_Layer: 0
+  m_Name: finger_thumb_2_r
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1953291323
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1953291322}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.060653374, y: -0.04036582, z: -0.37465015, w: 0.92429924}
+  m_LocalPosition: {x: 0.032516792, y: -0.000000051137583, z: -0.000000012933195}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1270701938}
+  m_Father: {fileID: 120634070}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
+=======
+>>>>>>> parent of db40695 (Dodanie pozy do lamp)
 --- !u!1 &1953785251
 GameObject:
   m_ObjectHideFlags: 0
@@ -112282,6 +112801,75 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 636501c2e876f9845926878dbee309f1, type: 3}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+--- !u!1 &1983376821
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1983376822}
+  m_Layer: 0
+  m_Name: finger_index_2_r
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1983376822
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1983376821}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.007238628, y: 0.021681298, z: -0.37996095, w: 0.9247201}
+  m_LocalPosition: {x: 0.02869547, y: -0.00000009398158, z: -0.00000012649753}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2115193687}
+  m_Father: {fileID: 763253622}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1985292417
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1985292418}
+  m_Layer: 0
+  m_Name: finger_ring_0_r
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1985292418
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1985292417}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.14279756, y: -0.040172838, z: -0.3086543, w: 0.93953586}
+  m_LocalPosition: {x: 0.06587581, y: -0.0017857892, z: -0.00069344096}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1047999591}
+  m_Father: {fileID: 951802852}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of db40695 (Dodanie pozy do lamp)
 --- !u!1 &1988380456
 GameObject:
   m_ObjectHideFlags: 0
@@ -112314,6 +112902,7 @@ Transform:
   - {fileID: 567675381}
   m_Father: {fileID: 2070239571}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
 --- !u!1001 &1991090549
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -114626,6 +115215,41 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4026813271271232, guid: a408d58eb3a85554ba6a86b3f5552740, type: 3}
   m_PrefabInstance: {fileID: 2109276944}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+--- !u!1 &2044722530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2044722531}
+  m_Layer: 0
+  m_Name: finger_middle_meta_r
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2044722531
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2044722530}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.546723, y: -0.46074906, z: -0.44252017, w: 0.54127645}
+  m_LocalPosition: {x: 0.0021773134, y: 0.007119544, z: 0.016318738}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1340430862}
+  m_Father: {fileID: 923566257}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
 --- !u!4 &2047084208 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4458818241885514, guid: 38048b618ab289c40bd4e1fe0b7f3b84, type: 3}
@@ -118578,6 +119202,44 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2115395872}
   m_Mesh: {fileID: 4300000, guid: 6a7e3b7e9a6ebb24f82dbede20898137, type: 3}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+--- !u!1 &2117019391
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2117019392}
+  m_Layer: 0
+  m_Name: finger_pinky_2_r
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2117019392
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2117019391}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.015728079, y: 0.05948787, z: -0.4896715, w: 0.86973315}
+  m_LocalPosition: {x: 0.018186597, y: -0.0000000050220166, z: -0.00000020934549}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 611270469}
+  m_Father: {fileID: 1197761449}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> db406952aca6fdac91302bd383fdcff014a65ebb
+=======
+>>>>>>> parent of db40695 (Dodanie pozy do lamp)
 --- !u!1 &2117417149
 GameObject:
   m_ObjectHideFlags: 0

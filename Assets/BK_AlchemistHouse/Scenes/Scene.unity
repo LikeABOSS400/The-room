@@ -85490,25 +85490,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1283131111}
     m_Modifications:
-    - target: {fileID: -3471884172255327572, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
-      propertyPath: hideHandOnAttach
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4006225117985208, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
-      propertyPath: m_RootOrder
-      value: 109
-      objectReference: {fileID: 0}
-    - target: {fileID: 4006225117985208, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.30927855
-      objectReference: {fileID: 0}
-    - target: {fileID: 4006225117985208, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.3092785
-      objectReference: {fileID: 0}
-    - target: {fileID: 4006225117985208, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.30927852
+    - target: {fileID: 1077347497082118, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
+      propertyPath: m_Name
+      value: DragonSkull
       objectReference: {fileID: 0}
     - target: {fileID: 4006225117985208, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
       propertyPath: m_LocalPosition.x
@@ -85543,24 +85527,12 @@ PrefabInstance:
       value: -90.00001
       objectReference: {fileID: 0}
     - target: {fileID: 4006225117985208, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4006225117985208, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 118.658005
-      objectReference: {fileID: 0}
-    - target: {fileID: 5586600383808879750, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
-      propertyPath: showLeftPreview
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5586600383808879750, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
-      propertyPath: showRightPreview
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5586600383808879750, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
-      propertyPath: previewLeftInstance
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 5586600383808879750, guid: fdb7d0167c2048440bfb09e723e7e2a1, type: 3}
-      propertyPath: previewRightInstance
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

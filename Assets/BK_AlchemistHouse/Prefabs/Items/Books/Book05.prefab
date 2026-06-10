@@ -158,7 +158,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: SteamVR::Valve.VR.InteractionSystem.Interactable
   activateActionSetOnAttach:
     actionSetPath: 
-  hideHandOnAttach: 1
+  hideHandOnAttach: 0
   hideSkeletonOnAttach: 0
   hideControllerOnAttach: 0
   handAnimationOnPickup: 0

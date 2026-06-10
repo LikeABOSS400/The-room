@@ -266,12 +266,10 @@ MonoBehaviour:
   blendEditorExpanded: 1
   poseNames:
   - LampPose (MAIN)
-  - '[not set]'
   overridePreviewLeftHandPrefab: {fileID: 1000013348574242, guid: 638779290bce1af49b356f33dcc6fccf, type: 3}
   overridePreviewRightHandPrefab: {fileID: 1000010304998954, guid: 6def53d002137b747aec0b29551e0e25, type: 3}
   skeletonMainPose: {fileID: 11400000, guid: 8b88e4ba739f74a429e1a7b3c22667e9, type: 2}
-  skeletonAdditionalPoses:
-  - {fileID: 0}
+  skeletonAdditionalPoses: []
   showLeftPreview: 0
   showRightPreview: 0
   previewLeftInstance: {fileID: 0}

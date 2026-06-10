@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 54481025495008506}
   - component: {fileID: -4926156749097087667}
   - component: {fileID: 8771679186678819326}
+  - component: {fileID: 8517759919456326887}
   m_Layer: 0
   m_Name: ClutterPichet01
   m_TagString: Untagged
@@ -157,9 +158,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: SteamVR::Valve.VR.InteractionSystem.Interactable
   activateActionSetOnAttach:
     actionSetPath: 
-  hideHandOnAttach: 1
+  hideHandOnAttach: 0
   hideSkeletonOnAttach: 0
-  hideControllerOnAttach: 0
+  hideControllerOnAttach: 1
   handAnimationOnPickup: 0
   setRangeOfMotionOnPickup: -1
   useHandObjectAttachmentPoint: 1
@@ -249,3 +250,30 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   interactable: {fileID: 0}
+--- !u!114 &8517759919456326887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1925498853553500}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7418c7dd8f977d4e969202d3fa7e926, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: SteamVR::Valve.VR.SteamVR_Skeleton_Poser
+  poseEditorExpanded: 1
+  blendEditorExpanded: 1
+  poseNames:
+  - ClutterPichet01Pose (MAIN)
+  overridePreviewLeftHandPrefab: {fileID: 1000013348574242, guid: 638779290bce1af49b356f33dcc6fccf, type: 3}
+  overridePreviewRightHandPrefab: {fileID: 1000010304998954, guid: 6def53d002137b747aec0b29551e0e25, type: 3}
+  skeletonMainPose: {fileID: 11400000, guid: 59a78a1760bcccf4db9b3f2fa25c2793, type: 2}
+  skeletonAdditionalPoses: []
+  showLeftPreview: 0
+  showRightPreview: 0
+  previewLeftInstance: {fileID: 0}
+  previewRightInstance: {fileID: 0}
+  previewPoseSelection: 0
+  blendingBehaviours: []
+  scale: 1
